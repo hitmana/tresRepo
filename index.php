@@ -14,6 +14,7 @@ and open the template in the editor.
         $Uesrs=[
             "UserName"=>"Damour",
         ]
+        phpinfo();
         ?>
     </body>
 </html>
