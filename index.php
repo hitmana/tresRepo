@@ -13,6 +13,7 @@ and open the template in the editor.
         <?php
         $Uesrs=[
             "UserName"=>"Damour",
+            "password"=>"Damour"
         ]
         ?>
     </body>
