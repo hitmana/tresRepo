@@ -11,9 +11,10 @@ and open the template in the editor.
     </head>
     <body>
         <?php
-        $Uesrs=[
-            "UserName"=>"Damour",
-        ]
+        //$Users=[
+        //  "UserName"=>"Damour",
+        //]
+        echo"Hello Emile";
         ?>
     </body>
 </html>
