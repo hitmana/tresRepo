@@ -10,10 +10,13 @@ and open the template in the editor.
         <title></title>
     </head>
     <body>
+
+    
         <?php
         $Uesrs=[
             "UserName"=>"Damour",
         ]
+        echo"Hello Php group",
         ?>
     </body>
 </html>
