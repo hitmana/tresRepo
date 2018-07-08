@@ -10,11 +10,25 @@ and open the template in the editor.
         <title></title>
     </head>
     <body>
+
+    
         <?php
+
         //$Users=[
         //  "UserName"=>"Damour",
         //]
         echo"Hello Emile";
+
+        $Uesrs=[
+            "UserName"=>"Damour",
+            "password"=>"Damour"
+        ]
+
+        echo"Hello Php group",
+
+        phpinfo();
+
+
         ?>
     </body>
 </html>
