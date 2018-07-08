@@ -13,6 +13,12 @@ and open the template in the editor.
 
     
         <?php
+
+        //$Users=[
+        //  "UserName"=>"Damour",
+        //]
+        echo"Hello Emile";
+
         $Uesrs=[
             "UserName"=>"Damour",
             "password"=>"Damour"
@@ -21,6 +27,7 @@ and open the template in the editor.
         echo"Hello Php group",
 
         phpinfo();
+
 
         ?>
     </body>
