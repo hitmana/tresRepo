@@ -15,8 +15,13 @@ and open the template in the editor.
         <?php
         $Uesrs=[
             "UserName"=>"Damour",
+            "password"=>"Damour"
         ]
+
         echo"Hello Php group",
+
+        phpinfo();
+
         ?>
     </body>
 </html>
