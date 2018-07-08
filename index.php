@@ -23,7 +23,8 @@ and open the template in the editor.
             "UserName"=>"Damour",
             "password"=>"Damour"
         ]
-
+        echo("this is done by Richard"); 
+   
         echo"Hello Php group",
 
         phpinfo();
