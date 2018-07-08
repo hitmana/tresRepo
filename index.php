@@ -14,7 +14,7 @@ and open the template in the editor.
         $Uesrs=[
             "UserName"=>"Damour",
         ]
-        echo("this is done by Richard");
+        echo("this is done by Richard"); 
         ?>
     </body>
 </html>
